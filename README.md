@@ -1,2 +1,0 @@
-# VueStudy
-Created with CodeSandbox
